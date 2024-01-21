@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: lightblue;
+
+}
+
+.login_div1,
+.login_div2 {
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+
+#player1_name,
+#player2_name {
+    display: inline-block;
+
+
+}
+
+.word {
+    padding: 6px;
+    width: 50%;
+    border-radius: 5px;
+    border: none;
+}
+
+#word_display {
+    letter-spacing: 5px;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    width: 50%;
+}
